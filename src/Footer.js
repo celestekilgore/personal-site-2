@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer class="footer items-center p-4 bg-primary text-neutral-content">
-      <aside class="items-center grid-flow-col">
+      <aside class="items-center grid-flow-col text-black">
         <p>© 2023 Celeste Kilgore - All right reserved</p>
       </aside>
       <nav class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
