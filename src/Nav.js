@@ -2,12 +2,12 @@ import ThemeController from "./ThemeController";
 
 function Nav() {
   return (
-    <div class="navbar bg-primary">
-      <div class="flex-1">
-        <a href="#home" class="btn btn-ghost text-xl">Celeste Kilgore</a>
+    <div className="navbar bg-primary">
+      <div className="flex-1">
+        <a href="#home" className="btn btn-ghost text-xl">Celeste Kilgore</a>
       </div>
-      <div class="flex-none">
-        <ul class="menu menu-horizontal">
+      <div className="flex-none">
+        <ul className="menu menu-horizontal">
           <li><a href="#about">About</a></li>
           {/* <li><a href="#skills">Skills</a></li> */}
           <li><a href="#projects">Projects</a></li>
