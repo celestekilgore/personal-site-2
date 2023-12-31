@@ -7,7 +7,7 @@ function ProjectList() {
           <p className="p-2">Explore my recent work.</p>
           <div>
             <div className="card lg:card-side bg-base-100 shadow-xl m-7">
-              <figure><img src="https://daisyui.com/images/stock/photo-1494232410401-ad00d5433cfa.jpg" alt="Album" /></figure>
+              <figure><img src="friender.png" alt="Album" /></figure>
               <div className="card-body">
                 <h2 className="card-title">Friender</h2>
                 <p className="text-left">A social networking site that allows users to find new friends in their area! Built with a React Frontend and a Flask Backend.</p>
