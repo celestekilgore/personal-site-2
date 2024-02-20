@@ -1,6 +1,6 @@
 ## My Portfolio Site
 
-Built with React and Daisy UI
+A site to showcase my latest work! Built with React and Daisy UI
 
 
 
