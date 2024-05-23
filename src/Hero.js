@@ -7,7 +7,7 @@ function Hero() {
 
           <div className="avatar py-6">
             <div className="w-40 rounded-full border border-primary border-2">
-              <img src="image.png" alt="Profile Pic"/>
+              <img src="image.jpg" alt="Profile Pic"/>
             </div>
           </div>
 
